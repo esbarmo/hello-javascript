@@ -1,4 +1,9 @@
 // 1. Crea una variable para cada operación aritmética
+let sum = num1 + num2;
+let subtraction = num1 - num2;
+let multiplication = num1 * num2;
+let division = num1 / num2;
+let remainder = num1 % num2;
 
 // 2. Crea una variable para cada tipo de operación de asignación, que haga uso
 // de las variables utilizadas para las operaciones aritméticas
