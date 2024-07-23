@@ -46,7 +46,7 @@ console.log(num1 == 3 && num2 ==4 || myVariable2 == 1)
 console.log(!(divisionAssignment > remainderAssignment))
 
 // 9. Utiliza el operador ternario
-const isRemaining = true
+let isRemaining = remainder
 isRemaining ? console.log("Ha sobrado algo") : console.log("No ha sobrado nada")
 
 // 10. Combina operadores aritméticos, de comparación y lógicos
