@@ -1,3 +1,9 @@
+/*
+Clase 2 en vídeo | 17/07/2024
+Tipos de datos, operadores y strings
+https://www.twitch.tv/videos/2200149072?t=00h08m02s
+*/
+
 // 1. Imprime por consola tu nombre si una variable toma su valor
 let name = "Estela"
 if (name === "Estela") {
