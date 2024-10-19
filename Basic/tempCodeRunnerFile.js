@@ -1,1 +1,1 @@
-myFunc4
+    return newArr
